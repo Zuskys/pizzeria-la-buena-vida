@@ -1,16 +1,23 @@
-# React + Vite
+# Pizzería La Buena Vida
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page conceptual para una pizzería desarrollada con React y Tailwind CSS.
 
-Currently, two official plugins are available:
+Este proyecto forma parte de mi práctica de desarrollo front-end, enfocado en diseño responsive, estructura modular de componentes y buenas prácticas en React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías utilizadas
 
-## React Compiler
+- React
+- Tailwind CSS
+- Vite
+- JavaScript (ES6+)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<!-- ## Características
 
-## Expanding the ESLint configuration
+- Diseño moderno y responsive
+- Secciones: Hero, Sobre Nosotros, Menú, Promociones y Contacto
+- Componentes reutilizables
+- Renderizado dinámico de productos desde datos mockeados -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Estado del proyecto
+
+En desarrollo.
